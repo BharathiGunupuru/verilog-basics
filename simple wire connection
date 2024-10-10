@@ -1,3 +1,5 @@
 module top_module( input in, output out );
 assign out = in;
 endmodule
+![Screenshot (372)](https://github.com/user-attachments/assets/198942a0-77f9-43fd-9e90-0d2a53684d71)
+
